@@ -14,6 +14,7 @@ The script explains what it will do and then pauses before it does it. If you do
 
 ### Preencher Boleto
 ![Preencher Boleto](https://s3.amazonaws.com/gabstv-github/automator-workflows/preencher-boleto.jpg)
+
 This task automatically types [boleto](http://en.wikipedia.org/wiki/Boleto) numers (from a digital boleto) for you. Here is how it works:
 1. It copies the selected text;
 2. Formats the text by removing dots and spaces;
