@@ -12,6 +12,12 @@ The script explains what it will do and then pauses before it does it. If you do
 
 ## Available Workflows
 
+### Count Chars
+![Count Chars](https://s3.amazonaws.com/gabstv-github/automator-workflows/count-chars.jpg)
+
+### Count Words
+![Count Words](https://s3.amazonaws.com/gabstv-github/automator-workflows/count-words.jpg)
+
 ### Preencher Boleto
 ![Preencher Boleto](https://s3.amazonaws.com/gabstv-github/automator-workflows/preencher-boleto.jpg)
 
