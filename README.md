@@ -8,7 +8,7 @@ Paste the following code at a Terminal prompt:
 bash <(curl -fsSL https://raw.github.com/gabstv/automator-workflows/go/install)
 ```
 
-The script explains what it will do and then pauses before it does it. If you don’t trust it, [download zip package](https://github.com/gabstv/automator-workflows/releases) and manually copy the workflows to `~/Library/Services/`.
+The script explains what it will do and then pauses before it does it. If you don’t trust it, [download the zip package](https://github.com/gabstv/automator-workflows/releases) and manually copy the workflows to `~/Library/Services/`.
 
 ## Available Workflows
 
